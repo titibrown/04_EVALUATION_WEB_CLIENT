@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+}  
+
+table, tr, th, td{
+    margin-top: 10em;
+    margin-left: auto;
+    margin-right: auto;
+    border: 0.05em rgb(162, 169, 177) solid;
+    border-spacing: 0;
+}
+
