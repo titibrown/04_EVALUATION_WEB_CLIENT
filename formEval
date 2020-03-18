@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+
+
+</head>
+
+<body>
+
+    <h1>Sign In</h1>
+    <hr>
+
+    <form method="get" action="eval.html">
+        <label for="Username">User Name : </label>
+        <input type="text" name="User Name" id="User Name"><br><br>
+
+        <label for="password">Password : </label>
+        <input type="password" name="password" placeholder="" /><br />
+
+        <label for="group">Group :</label>
+        <div>
+            <p><input type="radio" name="groups" id="group" value="abcdev"> ABC Dev</p>
+
+            <p><input type="radio" name="groups" id="group" value="dwwm"> DWWM</p>
+            <p><input type="radio" name="groups" id="group" value="cda" checked> CDA</p>
+        </div>
+
+
+        <button class="styled" type="submit"> SIGN IN
+        </button>
+
+        <ul>
+
+            <p>
+                <li><a href="">Forgot Password ?</a></li>
+            </p>
+        </ul>
+        <hr>
+        <h6>New User</h6>
+        <button class="styled" type="submit"> SIGN UP
+        </button>
+
+
+        </div>
+
+    </form>
+</body>
+
+</html>
+
+
+
+</body>
+
+</html>
+
+
+CSS
+
+
+.styled {
+    margin: auto;
+    border: 0;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    border-radius: 10px;
+    background-color: rgb(6, 10, 233);
+    }
+
+  
