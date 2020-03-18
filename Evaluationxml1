@@ -4,7 +4,7 @@
         <diametre unité_mesure="km">4878</diametre>
         <circonference unité_mesure="km">15324.69</circonference>
         <distancesoleil unité_mesure="10^6km">57.8</distancesoleil>
-        <DistanceTerre  unité_mesure="10^6km">91.8</DistanceTerre>
+        <distanceterre unité_mesure="10^6km">91.8</DistanceTerre>
         <satelitte>0</satelitte>
         <temperaturemoyenne unité_mesure="°C">167</temperaturemoyenne>
         <masseunitemesure="10^24kg">0.33</Masse>
@@ -19,7 +19,7 @@
         <diametre unité_mesure="km">12104</diametre>
         <circonference unité_mesure="km">38019.55</circonference>
         <distancesoleil unité_mesure="10^6km">108.2</distancesoleil>
-        <distanceterre unité_mesure="10^6km">41.4</distanceTerre>
+        <distanceterreunité_mesure="10^6km">41.4</distanceTerre>
         <satelitte>0</satelitte>
         <temperaturemoyenne unité_mesure="°C">465</temperaturemoyenne>
         <masseunitemesure="10^24kg">4.87</Masse>
@@ -48,7 +48,7 @@
         <diametre unité_mesure="km">6794</diametre>
         <circonference unité_mesure="km">21318.84</circonference>
         <distancesoleil unité_mesure="10^6km">227.9</distancesoleil>
-        <DistanceTerre  unité_mesure="10^6km">77.9</DistanceTerre>
+        <distanceterre unité_mesure="10^6km">77.9</DistanceTerre>
         <satelitte>2</satelitte>
         <temperaturemoyenne unité_mesure="°C">-65</temperaturemoyenne>
         <masseunitemesure="10^24kg">0.642</Masse>
@@ -63,7 +63,7 @@
         <diametre unité_mesure="km">142984</diametre>
         <circonference unité_mesure="km">449197.48</circonference>
         <distancesoleil unité_mesure="10^6km">778.6</distancesoleil>
-        <DistanceTerre  unité_mesure="10^6km">628.7</DistanceTerre>
+        <distanceterre unité_mesure="10^6km">628.7</DistanceTerre>
         <satelitte>63</satelitte>
         <temperaturemoyenne unité_mesure="°C">-54</temperaturemoyenne>
         <masseunitemesure="10^24kg">1899</Masse>
@@ -78,7 +78,7 @@
         <diametre unité_mesure="km">120536</diametre>
         <circonference unité_mesure="km">378675.01</circonference>
         <distancesoleil unité_mesure="10^6km">1433.50</distancesoleil>
-        <DistanceTerre  unité_mesure="10^6km">1280.40</DistanceTerre>
+        <distanceterre unité_mesure="10^6km">1280.40</DistanceTerre>
         <satelitte>47</satelitte>
         <temperaturemoyenne unité_mesure="°C">-150</temperaturemoyenne>
         <masseunitemesure="10^24kg">568</Masse>
@@ -93,7 +93,7 @@
         <diametre unité_mesure="km">51118</diametre>
         <circonference unité_mesure="km">160591.93</circonference>
         <distancesoleil unité_mesure="10^6km">2872.50</distancesoleil>
-        <DistanceTerre  unité_mesure="10^6km">2725.40</DistanceTerre>
+        <distanceterre unité_mesure="10^6km">2725.40</DistanceTerre>
         <satelitte>27</satelitte>
         <temperaturemoyenne unité_mesure="°C">-210</temperaturemoyenne>
         <masseunitemesure="10^24kg">86.8</Masse>
@@ -108,7 +108,7 @@
         <diametre unité_mesure="km">49528</diametre>
         <circonference unité_mesure="km">155596.80</circonference>
         <distancesoleil unité_mesure="10^6km">4495.10</distancesoleil>
-        <DistanceTerre  unité_mesure="10^6km">4346.90</DistanceTerre>
+        <distanceterre unité_mesure="10^6km">4346.90</DistanceTerre>
         <satelitte>13</satelitte>
         <temperaturemoyenne unité_mesure="°C">-220</temperaturemoyenne>
         <masseunitemesure="10^24kg">102</Masse>
